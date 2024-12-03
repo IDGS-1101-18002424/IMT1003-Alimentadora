@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "36833096137",
+    "firebase_url": "https://alimentadora-c0b84-default-rtdb.firebaseio.com",
+    "project_id": "alimentadora-c0b84",
+    "storage_bucket": "alimentadora-c0b84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36833096137:android:7a56c6a3beed2ce6897818",
+        "android_client_info": {
+          "package_name": "com.imt1003.alimentadora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkRYV82XzZ-qdDH6wMOOgy7Dig_jDw0Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
